@@ -9,3 +9,5 @@ function happyHolidaysTo(name) {
 function happyHolidayTo(string) {
   return `${holiday}, ${name}!`
 }
+
+var holiday = Christmas
